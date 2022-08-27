@@ -1,0 +1,1 @@
+$("head").append(`<link type="text/css" rel="stylesheet" href="materialize.min.css"  media="screen,projection"/><script type="text/javascript" src="materialize.min.js"></script><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">`)
