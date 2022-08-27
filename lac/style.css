@@ -1,0 +1,26 @@
+body {
+   background-color: black;
+}
+
+ul {
+   margin: 5px;
+}
+
+.tile {
+    color:red;
+    width: 320px;
+    border: 1px solid white;
+    display: block; 
+}   
+
+.tileTitle {
+    color:yellow;
+    display:block;
+    font-weight: bold;
+    border: 1px solid white;
+    padding: 4px 5px;
+   
+}
+cursor {
+     src:local("cursor.cur"), pointer;
+}
